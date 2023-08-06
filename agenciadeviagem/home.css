@@ -1,0 +1,12 @@
+body{
+background-image: url(aviao1.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+
+}
+.imagem-centro{
+    display:flex;
+    width: 80%;
+    justify-content: center;
+   margin: 8px auto;
+}
